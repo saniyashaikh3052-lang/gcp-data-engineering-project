@@ -88,4 +88,5 @@ Data_Engineer_Project/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+├── .gitignore# gcp-data-engineering-project
+Cloud-native TMDB analytics pipeline built using Python , PySpark, GCS, BigQuery, and Dataproc on GCP.
