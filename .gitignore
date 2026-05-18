@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# GCP Credentials
+*.json
+
+# Logs
+logs/
+
+# Local Data
+data/raw/
+data/silver/
+
+# VS Code
+.vscode/
+
+# Spark Temporary Files
+spark-warehouse/
+metastore_db/
+derby.log
